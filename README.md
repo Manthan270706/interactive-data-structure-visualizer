@@ -1,10 +1,10 @@
-# Data Structures Visualizer
+# Interactive Data Structures & Algorithms Visualizer
 
 📋 **Project Overview**
 A JavaFX-based educational tool that visualizes data structures and sorting algorithms in real-time. It helps students and developers understand algorithms through interactive animations and step-by-step execution.
 
 
-## 🎯 Core Features
+## 🎯 Key Features
 
 * **Data Structure Visualizers**
 
@@ -48,10 +48,22 @@ git clone https://github.com/Manthan270706/interactive-data-structure-visualizer
 
 ---
 
-## 🌟 Screenshots / Demo
+## 🌟 Screenshots
 
 ![home](./Images/home.png)
 ![ll](./Images/LL.png)
 ![stack](./Images/Stack.png)
 ![queue](./Images/Queue.png)
 ![sort](./Images/Sort.png)
+
+## 👨‍💻 Contributors
+- Manthan Sali
+- Nitish Sahu
+- Aditya Rana
+- Palash Sahuji
+
+## 🧠 Key Learnings
+- Strong understanding of data structures and algorithm behavior
+- Visualization of algorithm execution step-by-step
+- Clean UI design for educational tools
+- Application of OOP principles in a real-world project
